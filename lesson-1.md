@@ -20,7 +20,6 @@ Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wym
 ![image](https://user-images.githubusercontent.com/26519123/132105452-401fa3fb-b03b-4240-bf57-ecee210c34fc.png)
 
 
-
 ### Encja
 
 ### Atrybut
