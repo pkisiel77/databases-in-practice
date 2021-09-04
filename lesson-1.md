@@ -39,7 +39,8 @@ Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wym
 
 
 ## Literatura
-[1] https://www.oracle.com/pl/database/what-is-database/
-[2] https://pl.wikipedia.org/wiki/Baza_danych
+- [1] https://www.oracle.com/pl/database/what-is-database/
+- [2] https://pl.wikipedia.org/wiki/Baza_danych
+- [3] http://www.informatyka.orawskie.pl/?pl_projektowanie-bazy-danych,113
 
 
