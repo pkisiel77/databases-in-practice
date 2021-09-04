@@ -14,7 +14,7 @@
 
 Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wymaganiami. W wymaganiach powinny być zawarte min. definicje, pojęcia na bazie kótrych będzie wykonywan projekt.
 
-Dodatkowo:
+#### Dodatkowo
 ***Jaka jest różnica między bazą danych a arkuszem kalkulacyjnym?***
 [Odpowiedź](https://www.oracle.com/pl/database/what-is-database/)
 
