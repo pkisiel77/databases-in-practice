@@ -12,8 +12,24 @@
 
 [Ustawa z dnia 27 lipca 2001r.](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20011281402/T/D20011402L.pdf)
 
+Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wymaganiami. W wymaganiach powinny być zawarte min. definicje, pojęcia na bazie kótrych będzie wykonywan projekt.
 
-- encja, atrybut, krotka, relacja, klucz główny, klucz obcy, tabela, baza danych, relacja,
+### Encja
+
+### Atrybut
+
+### Krotka 
+
+### Relacja 
+
+### Klucz główny 
+
+### Klucz obcy 
+
+### Tabela
+
+### Relacja
+
 - typy danych stosowane w bazach danych: char, varchar, text, int, float, double, blob, date, datetime, time,
 
 ### Dodatkowo
