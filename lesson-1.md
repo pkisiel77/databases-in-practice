@@ -16,9 +16,10 @@ Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wym
 
 #### Dodatkowo
 ***Jaka jest różnica między bazą danych a arkuszem kalkulacyjnym?***
+[Odpowiedź](https://www.oracle.com/pl/database/what-is-database/)
 ![image](https://user-images.githubusercontent.com/26519123/132105452-401fa3fb-b03b-4240-bf57-ecee210c34fc.png)
 
-[Odpowiedź](https://www.oracle.com/pl/database/what-is-database/)
+
 
 ### Encja
 
