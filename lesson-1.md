@@ -9,6 +9,8 @@
 ***Baza danych – zbiór danych zapisanych zgodnie z określonymi regułami. W węższym znaczeniu obejmuje dane cyfrowe gromadzone zgodnie z zasadami przyjętymi dla danego programu komputerowego specjalizowanego do gromadzenia i przetwarzania tych danych. Program taki (często pakiet programów) nazywany jest „systemem zarządzania bazą danych” (ang. database management system, DBMS).***
 [lit. 2](https://pl.wikipedia.org/wiki/Baza_danych)
 
+[Ustawa z dnia 27 lipca 2001r.](http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20011281402/T/D20011402L.pdf)
+
 
 - encja, atrybut, krotka, relacja, klucz główny, klucz obcy, tabela, baza danych, relacja,
 - typy danych stosowane w bazach danych: char, varchar, text, int, float, double, blob, date, datetime, time,
