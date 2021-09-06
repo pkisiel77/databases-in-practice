@@ -93,8 +93,4 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 ## [Literatura](literature.md)
 
-## Narzędzia
-- https://dbdesigner.softonic.pl/
-
-
-
+## [Narzędzia](utils.md)
