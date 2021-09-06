@@ -57,9 +57,9 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 ## Diagram ERD - wstęp
 
-> Konceptualne projektowanie baz danych to konstruowanie schemtu danych niezależnego od wybranego modelu danyc, docelowego systemu zarządzania bazą danych, prgramów użytkowych czy jezyka programowania.
+> Konceptualne projektowanie baz danych to konstruowanie schematu danych niezależnego od wybranego modelu danych, docelowego systemu zarządzania bazą danych, programów użytkowych czy języka programowania.
 
-> Do tworzenia modelu graficznego schematu bazy danych wykorzystujemy diagramy związków encji - diragram ERD (ang. Entity Relationship Diagram)
+> Do tworzenia modelu graficznego schematu bazy danych wykorzystujemy diagramy związków encji — diagram ERD (ang. Entity Relationship Diagram)
 
 > Diagram ERD składa się z trzech rodzajów elementów:
 > - zbiór encji
