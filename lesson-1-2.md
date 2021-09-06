@@ -41,6 +41,8 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 ### Atrybut
 
+> Encje mają określonr cechy wynikające z ich natury. Cechy te nazywamy **atrybutami**.  
+
 ### Krotka 
 
 ### Relacja 
