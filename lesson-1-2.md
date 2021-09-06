@@ -43,7 +43,11 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 > Encje mają określonr cechy wynikające z ich natury. Cechy te nazywamy **atrybutami**.  
 
-### Krotka 
+### Dziedzina
+
+> Atrybuty encji mogą przyjmować różne wertości. Projektując bazę danych, możemy określić, jakie wartości może przyjmować dany atrybut. Zbiór wartości atrybutu nazywamy dziedziną (domeną).
+
+### Krotka
 
 ### Relacja 
 
