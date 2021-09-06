@@ -2,7 +2,7 @@
 
 ## [Wiersz, krotka, rekord w bazach danych](http://jakub.otrzasek.pl/baza-danych/241/wiersz-krotka-rekord-w-bazach-danych/) 
 
-## [Rekord](https://pl.wikipedia.org/wiki/Rekord_(informatyka)
+## [Rekord](https://pl.wikipedia.org/wiki/Rekord_(informatyka))
 
 ## Relacja 
 
