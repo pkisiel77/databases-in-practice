@@ -40,8 +40,6 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 ![image](https://user-images.githubusercontent.com/26519123/132177912-e84d5700-56e0-4730-a83c-535730d25625.png)
 
-
-
 ### Atrybut
 
 > Encje mają określonr cechy wynikające z ich natury. Cechy te nazywamy **atrybutami**.  
@@ -63,6 +61,9 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 > - zbiór encji
 > - atrybuty encji
 > - związki zachodzące między encjami 
+
+![image](https://user-images.githubusercontent.com/26519123/132180556-039f0428-0ad2-4c3c-a7ad-0a35f745597a.png)
+
 
 ## L3 - L4
 
