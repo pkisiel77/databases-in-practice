@@ -39,7 +39,6 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 > Relacyjna baza danych jest to zestaw encji i związków zachodzących miedzy nimi.
 
-
 ### Encja
 
 > Encja jest to każdy przedmiot, zjawisko, stan lub pojęcie, czyli każdy obiekt, który potrafimy odróżnić od innych obiektów (np. osoba, samochód, książka itd)
@@ -48,7 +47,7 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 > Projektując bazę danych należy precyzyjnie zdefiniować encje i określić parametry.
 
-![image](https://user-images.githubusercontent.com/26519123/132177912-e84d5700-56e0-4730-a83c-535730d25625.png)
+![image](https://user-images.githubusercontent.com/26519123/132256473-d12f8504-78bc-47dd-aeae-adf10fe000e4.png)
 
 ### Atrybut
 
