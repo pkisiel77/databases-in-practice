@@ -2,6 +2,8 @@
 
 ## Podstawa
 
+### [Właściwości bazy danych](https://mfiles.pl/pl/index.php/Baza_danych)
+
 ### Baza danych 
 
 ***Baza danych - to zorganizowany zbiór usystematyzowanych informacji, czyli danych, zwykle przechowywany w systemie komputerowym w formie elektronicznej. Bazą danych steruje zwykle system zarządzania bazami danych (DBMS). Dane i system DBMS oraz powiązane z nimi aplikacje razem tworzą system bazodanowy, często nazywany w skrócie bazą danych.***
