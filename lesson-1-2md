@@ -21,6 +21,11 @@ Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wym
 
 https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
+### Relacyjna baza danych
+
+***Relacyjna baza danych to rodzaj bazy danych, który pozwala przechowywać powiązane ze sobą elementy danych i zapewnia do nich dostęp. Relacyjne bazy danych są oparte na modelu relacyjnym — jest to prosty i intuicyjny sposób przedstawiania danych w tabelach. W relacyjnej bazie danych każdy wiersz tabeli jest rekordem z unikatowym identyfikatorem nazywanym kluczem. Kolumny tabeli zawierają atrybuty danych, a każdy rekord zawiera zwykle wartość dla każdego atrybutu, co ułatwia ustalenie relacji między poszczególnymi elementami rekordu.***
+[lit. 5](https://www.oracle.com/pl/database/what-is-a-relational-database/)
+
 ### Encja
 
 ### Atrybut
@@ -50,5 +55,6 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 - [2] https://pl.wikipedia.org/wiki/Baza_danych
 - [3] http://www.informatyka.orawskie.pl/?pl_projektowanie-bazy-danych,113
 - [4] https://eduinf.waw.pl/inf/utils/015_2015/0009.php
+- [5] https://www.oracle.com/pl/database/what-is-a-relational-database/
 
 
