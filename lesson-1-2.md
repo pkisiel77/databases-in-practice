@@ -57,4 +57,8 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 - [4] https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 - [5] https://www.oracle.com/pl/database/what-is-a-relational-database/
 
+## Narzędzia
+- https://dbdesigner.softonic.pl/
+
+
 
