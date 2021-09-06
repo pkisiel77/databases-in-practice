@@ -47,13 +47,14 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 > Projektując bazę danych należy precyzyjnie zdefiniować encje i określić parametry.
 
-![image](https://user-images.githubusercontent.com/26519123/132256473-d12f8504-78bc-47dd-aeae-adf10fe000e4.png)
+![image](https://user-images.githubusercontent.com/26519123/132256633-511e5a27-2267-46b8-b9c4-aa7b8dbd3176.png)
 
 ### Atrybut
 
 > Encje mają określonr cechy wynikające z ich natury. Cechy te nazywamy **atrybutami**.  
 
-![image](https://user-images.githubusercontent.com/26519123/132178385-7a460559-f6b6-42e3-9d02-880c67980e8b.png)
+![image](https://user-images.githubusercontent.com/26519123/132256548-ebe70686-397e-4762-aceb-d8cfbb235dfa.png)
+
 
 
 ### Dziedzina
