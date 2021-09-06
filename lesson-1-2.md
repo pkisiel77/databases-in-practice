@@ -26,6 +26,10 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 ***Relacyjna baza danych to rodzaj bazy danych, który pozwala przechowywać powiązane ze sobą elementy danych i zapewnia do nich dostęp. Relacyjne bazy danych są oparte na modelu relacyjnym — jest to prosty i intuicyjny sposób przedstawiania danych w tabelach. W relacyjnej bazie danych każdy wiersz tabeli jest rekordem z unikatowym identyfikatorem nazywanym kluczem. Kolumny tabeli zawierają atrybuty danych, a każdy rekord zawiera zwykle wartość dla każdego atrybutu, co ułatwia ustalenie relacji między poszczególnymi elementami rekordu.***
 [lit. 5](https://www.oracle.com/pl/database/what-is-a-relational-database/)
 
+
+> Relacyna baza danych jest to zestaw encji i związków zachodzących miedzy nimi.
+
+
 ### Encja
 
 ### Atrybut
