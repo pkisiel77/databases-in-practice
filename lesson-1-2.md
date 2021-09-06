@@ -27,10 +27,17 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 [lit. 5](https://www.oracle.com/pl/database/what-is-a-relational-database/)
 
 
-> Relacyna baza danych jest to zestaw encji i związków zachodzących miedzy nimi.
+> Relacyjna baza danych jest to zestaw encji i związków zachodzących miedzy nimi.
 
 
 ### Encja
+
+> Encja jest to każdy przedmiot, zjawisko, stan lub pojęcie, czyli każdy obiekt, który potrafimy odróżnić od innych obiektów (np. osoba, samochód, książka itd)
+
+> Podobne do siebie encje ( te same parametry ) grupujemy w zriór encji. 
+
+> Projektując bazę danych należy precyzyjnie zdefiniować encje i określić parametry.
+
 
 ### Atrybut
 
