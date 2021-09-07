@@ -23,6 +23,8 @@ Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wym
 [Odpowiedź](https://www.oracle.com/pl/database/what-is-database/)
 ![image](https://user-images.githubusercontent.com/26519123/132105452-401fa3fb-b03b-4240-bf57-ecee210c34fc.png)
 
+[Ograniczenia dla excela](https://support.microsoft.com/pl-pl/office/specyfikacje-i-ograniczenia-programu-excel-1672b34d-7043-467e-8e27-269d656771c3)
+
 https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 ### System zarządzania bazą danych
