@@ -6,19 +6,17 @@
 
 > Tabela to zbiór powiązanych ze sobą danych. Jest to układ poziomych wierszy, nazywanych rekordami lub krotkami, i pionowych kolumn, nazywanych polami rekordu lub atrybutami. Tabela jest identyfikowana poprzez nazwę.
 
+![image](table-structure-ex1.png)
 
+### [Wiersz, krotka, rekord w bazach danych](http://jakub.otrzasek.pl/baza-danych/241/wiersz-krotka-rekord-w-bazach-danych/) 
 
-## [Wiersz, krotka, rekord w bazach danych](http://jakub.otrzasek.pl/baza-danych/241/wiersz-krotka-rekord-w-bazach-danych/) 
-
-## [Rekord](https://pl.wikipedia.org/wiki/Rekord_(informatyka))
+### [Rekord](https://pl.wikipedia.org/wiki/Rekord_(informatyka))
 
 ## Relacja 
 
 ## Klucz główny 
 
 ## Klucz obcy 
-
-## Relacja
 
 ## Typy danych stosowane w bazach danych 
 - char, 
