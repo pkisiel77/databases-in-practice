@@ -27,6 +27,11 @@ Każdy projekt w IT powinien być wykonywany zgodnie z wcześniej ustalonymi wym
 
 https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
+**Format CSV**
+[Stop Using CSVs for Storage — This File Format Is 150 Times Faster](https://towardsdatascience.com/stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e)
+
+**Format EDI**
+
 ### System zarządzania bazą danych
 
 > SZBD (ang. DBMS) - to program zarządzający danymi w bazie i umożliwiający ich przetwarzanie.
