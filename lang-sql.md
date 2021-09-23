@@ -1,7 +1,9 @@
 # Podstawy języka SQL 
 
-| Polecenie | Opis
--|-|-
+| Polecenie | Opis |
+| ------------- |:-------------:|
+
+
 DML SELECT DML INSERT DML UPDATE DML DELETE DDL CREATE DDL ALTER DDL DROP
 Opis
 wyświetlanie rekordów
