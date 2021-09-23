@@ -3,6 +3,8 @@
 | Polecenie | Opis |
 | ------------- |:-------------:|
 | SELECT| wyświetlanie rekordów |
+| SELECT| wyświetlanie rekordów |
+| SELECT| wyświetlanie rekordów |
 
 
 DML  DML INSERT DML UPDATE DML DELETE DDL CREATE DDL ALTER DDL DROP
