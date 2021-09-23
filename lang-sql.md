@@ -1,0 +1,15 @@
+# Podstawy języka SQL (polecenia CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT)
+
+## SELECT
+
+## INSERT
+
+## UPDATE
+
+## DELETE
+
+## DROP
+
+## CREATE
+
+## ALTER
