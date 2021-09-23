@@ -15,13 +15,24 @@
 ## INSERT
 
 ```sql
-INSERT INTO studenci VALUES (1, 'Artur', 'Nowakowski', 'P');
-   INSERT INTO studenci VALUES (2, 'Jan', 'Kowalski', 'P');
-   INSERT INTO studenci VALUES (3, 'Roman', 'Nowak', 'U');
-   INSERT INTO studenci VALUES (4, 'Stefan', 'Antkowiak', 'A');
-   INSERT INTO studenci VALUES (5, 'Ewa', 'Konieczna', 'A');
-   INSERT INTO studenci VALUES (6, 'Anna', 'Wojtasik', 'A');
-   INSERT INTO studenci VALUES (7, 'Marek', 'Pawlak', 'P');
+INSERT INTO client VALUES (1, 'Artur', 'Nowakowski', 'P');
+INSERT INTO client VALUES (2, 'Jan', 'Kowalski', 'P');
+INSERT INTO client VALUES (3, 'Roman', 'Nowak', 'U');
+INSERT INTO client VALUES (4, 'Stefan', 'Antkowiak', 'A');
+INSERT INTO client VALUES (5, 'Ewa', 'Konieczna', 'A');
+INSERT INTO client VALUES (6, 'Anna', 'Wojtasik', 'A');
+INSERT INTO client VALUES (7, 'Marek', 'Pawlak', 'P');
+```
+
+```sql
+INSERT INTO client VALUES
+     (1, 'Artur', 'Nowakowski', 'P'),
+     (2, 'Jan', 'Kowalski', 'P'),
+     (3, 'Roman', 'Nowak', 'U'),
+     (4, 'Stefan', 'Antkowiak', 'A'),
+     (5, 'Ewa', 'Konieczna', 'A'),
+     (6, 'Anna', 'Wojtasik', 'A'),
+     (7, 'Marek', 'Pawlak', 'P');
 ```
 
 ## UPDATE
