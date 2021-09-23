@@ -3,17 +3,12 @@
 | Polecenie | Opis |
 | ------------- |:-------------:|
 | SELECT| wyświetlanie rekordów |
-| SELECT| wyświetlanie rekordów |
-| SELECT| wyświetlanie rekordów |
-
-
-DML  DML INSERT DML UPDATE DML DELETE DDL CREATE DDL ALTER DDL DROP
-Opis
-
-wstawianie rekordów
-modyfikacja rekordów
-kasowanie rekordów
-tworzenie obiektów (np. tabel) modyfikowanie obiektów (np. tabel) kasowanie obiektów (np. tabel)
+| INSERT| wstawianie rekordów |
+| UPDATE| modyfikacja rekordów |
+| DELETE| kasowanie rekordów |
+| CREATE| tworzenie obiektów (np. tabel) |
+| ALTER| modyfikowanie obiektów (np. tabel) |
+| DROP| kasowanie obiektów (np. tabel) |
 
 ## SELECT
 
