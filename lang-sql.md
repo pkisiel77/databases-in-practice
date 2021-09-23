@@ -2,11 +2,12 @@
 
 | Polecenie | Opis |
 | ------------- |:-------------:|
+| SELECT| wyświetlanie rekordów |
 
 
-DML SELECT DML INSERT DML UPDATE DML DELETE DDL CREATE DDL ALTER DDL DROP
+DML  DML INSERT DML UPDATE DML DELETE DDL CREATE DDL ALTER DDL DROP
 Opis
-wyświetlanie rekordów
+
 wstawianie rekordów
 modyfikacja rekordów
 kasowanie rekordów
