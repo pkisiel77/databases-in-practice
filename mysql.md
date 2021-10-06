@@ -46,3 +46,6 @@ SET kolumna_1 = wyrażenie_1, kolumna_2 = wyrażenie_2, …
 ```sql
 UPDATE zamowienie SET data_odbioru = CURRENT_TIMESTAMP WHERE id_zamowienie = '4';
 ```
+
+## Literatura
+[1] https://www.wiedzanaplus.pl/bazy-danych/20-mysql/9-przykladowy-projekt-bazy-danych-internetowy-system-biblioteczny.html
