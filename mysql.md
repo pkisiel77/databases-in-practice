@@ -31,6 +31,11 @@ AND z.id_ksiazka = k.id_ksiazka
 ORDER BY z.data_zamowienia DESC
 LIMIT 1;
 ```
+### INSERT
+```sql
+INSERT [INTO] nazwa_tabeli (kolumna_1, kolumna_2, kolumna_3, ...)
+VALUE (wartość_1, wartość_2, wartość_3, ...);
+```
 ### UPDATE
 ```sql
 UPDATE nazwa_tabeli
