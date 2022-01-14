@@ -36,6 +36,18 @@ INSERT INTO client VALUES
 ```
 
 ## UPDATE
+```sql
+UPDATE Persons  SET email='mrorzon@gmail.png', phone='123123123' WHERE id=1;
+UPDATE Persons SET email='Sid@epokalodowcowa.yes', phone='999000888' WHERE id=2;
+UPDATE Persons SET email='PIZZERIA@nonketchup.jpg', phone='888888888' WHERE id=3;
+UPDATE Persons SET email='maSłO@kefir.gif', phone='123456789' WHERE id=4;
+UPDATE Persons SET email='nosaty@onet.www', phone='987654321' WHERE id=5;
+UPDATE Persons SET email='niewolnik1@gmail.com', phone='855 559 912' WHERE id=6;
+UPDATE Persons SET email='kOSmita0@gmail.com', phone='000 000 000' WHERE id=7;
+UPDATE Persons SET email='Prezspies@gmail.com', phone='832 594 448' WHERE id=8;
+UPDATE Persons SET email='encyklopedia@scrace.com', phone='248 250 260' WHERE id=9;
+UPDATE Persons SET email='zabson@grucz.com', phone='532 653 146' WHERE id=10;
+```
 
 ## DELETE
 
