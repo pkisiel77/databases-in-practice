@@ -50,4 +50,14 @@ INSERT INTO client VALUES
 ```
 SELECT * FROM Customers WHERE Country IN ('Germany', 'France', 'UK');
 SELECT * FROM Customers WHERE CustomerID IN (1,2,10,11);
+SELECT ProductName 
+FROM Products
+WHERE ProductID in (37,19,69);
+
+SELECT ProductName 
+FROM Products
+WHERE ProductID in (SELECT ProductID FROM OrderDetails WHERE Quantity = 1);
 ```
+
+## SQL Logical Operators
+
