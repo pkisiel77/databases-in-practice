@@ -50,6 +50,9 @@ UPDATE Persons SET email='zabson@grucz.com', phone='532 653 146' WHERE PersonID=
 ```
 
 ## DELETE
+```sql
+DELETE FROM Persons WHERE PersonID=1;
+```
 
 ## DROP
 
