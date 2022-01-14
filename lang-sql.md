@@ -44,3 +44,9 @@ INSERT INTO client VALUES
 ## CREATE
 
 ## ALTER
+
+## SQL
+
+```
+SELECT * FROM Customers WHERE Country IN ('Germany', 'France', 'UK');
+```
