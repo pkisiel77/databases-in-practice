@@ -49,4 +49,5 @@ INSERT INTO client VALUES
 
 ```
 SELECT * FROM Customers WHERE Country IN ('Germany', 'France', 'UK');
+SELECT * FROM Customers WHERE CustomerID IN (1,2,10,11);
 ```
