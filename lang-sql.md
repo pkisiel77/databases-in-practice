@@ -58,6 +58,11 @@ Insert Into Persons (PersonID, LastName, FirstName, Address, City) Values (1, 'K
 
 ## ALTER
 
+```sql
+ALTER TABLE Persons ADD Email varchar(255);
+ALTER TABLE Persons ADD Phone varchar(50);
+```
+
 ## SQL
 
 ```
