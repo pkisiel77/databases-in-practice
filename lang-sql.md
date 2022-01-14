@@ -52,6 +52,10 @@ CREATE TABLE Persons (
 );
 ```
 
+```sql
+Insert Into Persons (PersonID, LastName, FirstName, Address, City) Values (1, 'Korzon', 'Kubuś', 'Korzońska51', 'Podlaś'), (2, 'Sosna', 'Sined', 'tak 476', 'Sosnowiec'), (3, 'Italian', 'Kamil', 'Pizzerowa 90', 'MAMMA MIAAAA'), (4, 'Mselniczka', 'Kevin', 'Maślankowa 45', 'Maśleniczankowo'), (5, 'Nosaczowy', 'Nosacz', 'Smarkowa895', 'Smarkowo'),(6,'Niewolniczy', 'Niewolnik', 'niewolnicza 21a', 'Szkoła'),(7,'Koszmiczny', 'Kosmita',' strefowa 51', 'Ziemia 2.0'),(8,'Prezoesowy','prezes','biznesowa 5', 'sosnowie'),(9,'Książkowicz', 'Książka', 'Papiernicza 55g', 'Biblioteka'),(10, 'Żabski', 'Żaba', 'Wodna 35b', 'Jezioro');
+```
+
 ## ALTER
 
 ## SQL
