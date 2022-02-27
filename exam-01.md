@@ -1,5 +1,8 @@
 ## Ćwiczenia
 - https://www.w3schools.com/sql/sql_comments.asp
+### Język polski dla w3schools
+
+<img width="1783" alt="image" src="https://user-images.githubusercontent.com/26519123/155877500-809fb256-8553-4fcd-917f-4782e571f903.png">
 
 ## Lista SQL
 - SQL Select
