@@ -7,4 +7,8 @@
 
 ## Linki
 - [1] https://qr.ae/pG6QSp
-- 
+
+## Questions
+- https://www.edureka.co/blog/interview-questions/sql-interview-questions
+- https://egzamin-informatyk.pl/testy-bazy-danych-sql-mysql/
+
