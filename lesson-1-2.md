@@ -36,6 +36,8 @@ https://eduinf.waw.pl/inf/utils/015_2015/0009.php
 
 **XML**
 
+**YAML(YML)**
+
 **Format EDI**
 
 ### System zarządzania bazą danych
