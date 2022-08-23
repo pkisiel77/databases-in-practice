@@ -8,6 +8,7 @@
 ## Linki
 - [1] https://qr.ae/pG6QSp
 - [2[ https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/amp/
+- [3] https://www.youtube.com/watch?v=zt8Cocdy15c
 
 ## Questions
 - https://www.edureka.co/blog/interview-questions/sql-interview-questions
