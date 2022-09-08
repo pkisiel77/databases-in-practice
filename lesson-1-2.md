@@ -1,4 +1,4 @@
-# Podstawowe pojęcia związane z bazami danych (2021)
+# Podstawowe pojęcia związane z bazami danych (21,22)
 
 ## Podstawa
 
