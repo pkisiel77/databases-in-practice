@@ -14,3 +14,6 @@
 - https://www.edureka.co/blog/interview-questions/sql-interview-questions
 - https://egzamin-informatyk.pl/testy-bazy-danych-sql-mysql/
 
+## Projects
+- https://www.wiedzanaplus.pl/bazy-danych/20-mysql/9-przykladowy-projekt-bazy-danych-internetowy-system-biblioteczny.html
+
