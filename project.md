@@ -16,9 +16,9 @@ Projekt bazy danych dotyczącej sklepu internetowego:
 1) Analiza wymagań: Sklep internetowy będzie sprzedawał różne produkty, a więc baza danych musi przechowywać informacje o produktach, takie jak nazwa, cena, opis, zdjęcie, kategoria itp. Baza danych musi również przechowywać informacje o klientach, takie jak imię, nazwisko, adres e-mail i historię zamówień.
 
 2) Projektowanie schematu:
--Tabela produktów z kolumnami: ID produktu, nazwa, cena, opis, zdjęcie, kategoria.
--Tabela klientów z kolumnami: ID klienta, imię, nazwisko, adres e-mail, hasło.
--Tabela zamówień z kolumnami: ID zamówienia, ID klienta, data zamówienia, szczegóły zamówienia (np. ID produktu, ilość, cena), status zamówienia.
+- Tabela produktów z kolumnami: ID produktu, nazwa, cena, opis, zdjęcie, kategoria.
+- Tabela klientów z kolumnami: ID klienta, imię, nazwisko, adres e-mail, hasło.
+- Tabela zamówień z kolumnami: ID zamówienia, ID klienta, data zamówienia, szczegóły zamówienia (np. ID produktu, ilość, cena), status zamówienia.
 
 3) Implementacja: Tworzenie tabel zgodnie z zaprojektowanym schematem, korzystanie z języka SQL i odpowiedniego narzędzia (np. MySQL, PostgreSQL)
 
